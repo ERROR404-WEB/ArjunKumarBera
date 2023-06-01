@@ -1198,7 +1198,7 @@ export default function Home() {
                     </p>
                   </div>
                   <div className="circle">
-                    <a href="" target="_blank">
+                    <a href="https://leetcode.com/mrhacker007/" target="_blank">
                       <img
                         src={lc}
                         className={
@@ -1220,7 +1220,7 @@ export default function Home() {
                     </p>
                   </div>
                   <div className="circle">
-                    <a href="" target="_blank">
+                    <a href="https://codeforces.com/profile/MrHacker_007" target="_blank">
                       <img
                         src={cf}
                         className={
@@ -1242,7 +1242,7 @@ export default function Home() {
                     </p>
                   </div>
                   <div className="circle">
-                    <a href="" target="_blank">
+                    <a href="https://auth.geeksforgeeks.org/user/djeditzzbyarjun/" target="_blank">
                       <img
                         src={gfg}
                         className={
@@ -1264,7 +1264,7 @@ export default function Home() {
                     </p>
                   </div>
                   <div className="circle">
-                    <a href="" target="_blank">
+                    <a href="https://www.hackerrank.com/20L31A0514" target="_blank">
                       <img
                         src={hr}
                         className={
