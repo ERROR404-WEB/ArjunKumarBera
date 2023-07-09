@@ -21,7 +21,7 @@ export default function Navbar({ isActive, handledarkmode }) {
           <li>
             <p>
               {" "}
-              <b>Arjun Kumar Bera</b>
+              <b>Arjun Kumar</b>
             </p>
           </li>
         </ul>

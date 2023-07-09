@@ -397,7 +397,7 @@ export default function Home() {
                 <div className="bottom slide-down-fade">
                   <div className="text1">
                     <p className={isActive ? "activetext" : ""}>
-                      Front End Developer
+                      Full Stack Developer
                     </p>
                   </div>
                   <br />
@@ -406,8 +406,7 @@ export default function Home() {
                       Hi there,👋
                       <br />
                       I'm Arjun Kumar Bera,🧑‍💻 <br />
-                      and I'm a front-end developer with a passion for becoming
-                      a full-stack developer.🙂
+                      Full Stack Developer | Code Chef Certified | Macro Influencer @instagram .🙂
                       <br />
                       <br />
                       I'm also proud to say that I'm a social media influencer,
@@ -1125,7 +1124,7 @@ export default function Home() {
                     }
                   >
                     {" "}
-                    FRONT END DEVELOPER{" "}
+                    Full Stack Developer{" "}
                   </p>
                 </div>
               </div>
